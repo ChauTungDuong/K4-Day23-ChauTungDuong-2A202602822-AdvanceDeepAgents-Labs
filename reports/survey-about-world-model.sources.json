@@ -1,0 +1,82 @@
+[
+  {
+    "n": 1,
+    "id": "10.1145/3746449",
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2606.00133",
+    "url": "https://arxiv.org/abs/2606.00133",
+    "title": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
+    "date": "2026-05-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2605.00080",
+    "url": "https://arxiv.org/abs/2605.00080",
+    "title": "World Model for Robot Learning: A Comprehensive Survey",
+    "date": "2026-05-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2402.15391",
+    "url": "https://arxiv.org/abs/2402.15391",
+    "title": "Genie: Generative Interactive Environments",
+    "date": "2024-02-23",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "sora-openai-2024",
+    "url": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "title": "Video generation models as world simulators",
+    "date": "2024-02-15",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "acl2026-366",
+    "url": "https://aclanthology.org/2026.acl-long.366.pdf",
+    "title": "Can Large Language Models be Implicit Text-based World Models?",
+    "date": "2026-01-01",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2509.02350",
+    "url": "https://arxiv.org/html/2509.02350",
+    "title": "Implicit Reasoning in Large Language Models: A Comprehensive Survey",
+    "date": "2025-09-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "ecice-2026-v52-i6",
+    "url": "https://www.ecice06.com/EN/Y2026/V52/I6/1",
+    "title": "Survey of World Models Based on Large Models",
+    "date": "2026-06-15",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "world-models-survey",
+    "url": "https://world-models.io/en/research/world-models-survey/",
+    "title": "World Models: A Comprehensive Survey of Knowledge, Architectures, and Applications",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2405.03520",
+    "url": "https://huggingface.co/papers/2405.03520",
+    "title": "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond",
+    "date": "2024-05-06",
+    "source": "hf-search"
+  }
+]

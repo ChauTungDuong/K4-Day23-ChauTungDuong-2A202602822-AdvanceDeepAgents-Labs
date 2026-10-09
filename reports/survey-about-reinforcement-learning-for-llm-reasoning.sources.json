@@ -1,0 +1,138 @@
+[
+  {
+    "n": 1,
+    "id": "2026.acl-long.163.pdf",
+    "url": "https://aclanthology.org/2026.acl-long.163.pdf",
+    "title": "A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models",
+    "date": "2026-03-10",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2510.01925v3",
+    "url": "https://arxiv.org/html/2510.01925v3",
+    "title": "Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey",
+    "date": "2025-10-01",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "98711dea460bdefe0e651ca23ec98ba2",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/98711dea460bdefe0e651ca23ec98ba2-Paper-Conference.pdf",
+    "title": "Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning (PROGRESS)",
+    "date": "2025-05-01",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2506.02177",
+    "url": "https://huggingface.co/papers/2506.02177",
+    "title": "Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts",
+    "date": "2025-06-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2025.findings-acl.1249",
+    "url": "https://aclanthology.org/anthology-files/pdf/findings/2025.findings-acl.1249.pdf",
+    "title": "Full-Step-DPO: Self-Supervised Preference Optimization with Step-wise Rewards for Mathematical Reasoning",
+    "date": "2025",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2026.acl-long.356",
+    "url": "https://aclanthology.org/2026.acl-long.356.pdf",
+    "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
+    "date": "2026",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2502.06773",
+    "url": "https://huggingface.co/papers/2502.06773",
+    "title": "On the Emergence of Thinking in LLMs I: Searching for the Right Intuition",
+    "date": "2025-02-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2504.19162",
+    "url": "https://huggingface.co/papers/2504.19162",
+    "title": "SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning",
+    "date": "2025-04-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2507.05557",
+    "url": "https://huggingface.co/papers/2507.05557",
+    "title": "Enhancing Test-Time Scaling of Large Language Models with Hierarchical Retrieval-Augmented MCTS",
+    "date": "2025-07-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "S0306457325003358",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0306457325003358",
+    "title": "A survey of slow thinking-based reasoning LLMs using reinforcement learning and test-time scaling law",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2604.13602",
+    "url": "https://arxiv.org/html/2604.13602",
+    "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
+    "date": "2026-04-13",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2509.16679",
+    "url": "https://arxiv.org/abs/2509.16679",
+    "title": "Reinforcement Learning Meets Large Language Models: A Survey of Advancements and Applications Across the LLM Lifecycle",
+    "date": "2025-09-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "01980-z",
+    "url": "https://link.springer.com/article/10.1007/s44163-026-01980-z",
+    "title": "A survey of reward hacking in agentic large language model systems",
+    "date": "2026-08-17",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "chapter20_prm_search",
+    "url": "https://walkinglabs.github.io/hands-on-modern-rl/en/chapter20_prm_search/outcome-vs-process",
+    "title": "17.1 Outcome Rewards and Process Rewards | Hands-on Modern RL",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2602.09305v2",
+    "url": "https://arxiv.org/html/2602.09305v2",
+    "title": "Reward Modeling for Reinforcement Learning-Based LLM Reasoning",
+    "date": "2026",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2501.09686v1",
+    "url": "https://arxiv.org/html/2501.09686v1",
+    "title": "A Survey of Reinforced Reasoning with Large Language Models",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2601.17223",
+    "url": "https://huggingface.co/papers/2601.17223",
+    "title": "Beyond Outcome Verification: Verifiable Process Reward Models for Structured Reasoning",
+    "date": "2026-01-23",
+    "source": "hf-search"
+  }
+]

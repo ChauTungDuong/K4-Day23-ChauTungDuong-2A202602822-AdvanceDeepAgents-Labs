@@ -1,0 +1,154 @@
+[
+  {
+    "n": 1,
+    "id": "2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2022-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2305.10601",
+    "url": "https://arxiv.org/abs/2305.10601",
+    "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+    "date": "2023-05-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2303.11366",
+    "url": "https://arxiv.org/abs/2303.11366",
+    "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+    "date": "2023-03-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2307.16789v2",
+    "url": "https://arxiv.org/html/2307.16789v2",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "date": "2023-07-28",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2603.23802",
+    "url": "https://arxiv.org/pdf/2603.23802",
+    "title": "Monitoring Model Context Protocol (MCP) Servers and Action Tool Usage",
+    "date": "2026-03-01",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2509.01560",
+    "url": "https://huggingface.co/papers/2509.01560",
+    "title": "In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents",
+    "date": "2025-12-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2409.00920",
+    "url": "https://huggingface.co/papers/2409.00920",
+    "title": "ToolACE: Winning the Points of LLM Function Calling",
+    "date": "2024-09-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2503.01935",
+    "url": "https://huggingface.co/papers/2503.01935",
+    "title": "MultiAgentBench: Evaluating the Collaboration and Competition of LLM Agents",
+    "date": "2025-03-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2604.10938v1",
+    "url": "https://arxiv.org/abs/2604.10938v1",
+    "title": "AgentWebBench: Benchmarking Multi-Agent Coordination in Agentic Web",
+    "date": "2026-04-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2602.22724",
+    "url": "https://arxiv.org/pdf/2602.22724",
+    "title": "AgentSentry: Inference-Time Detection and Mitigation of Multi-Turn Indirect Prompt Injection in Tool-Augmented LLM Agents",
+    "date": "2026-02-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2504.19793v3",
+    "url": "https://arxiv.org/html/2504.19793v3",
+    "title": "Prompt Injection Attack to Tool Selection in LLM Agents",
+    "date": "2025-04-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2605.03378",
+    "url": "https://arxiv.org/pdf/2605.03378",
+    "title": "ARGUS: Defending LLM Agents Against Context-Aware Prompt Injection",
+    "date": "2026-07-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2603.18059",
+    "url": "https://huggingface.co/papers/2603.18059",
+    "title": "Guardrails as Infrastructure: Policy-First Control for Tool-Orchestrated Workflows",
+    "date": "2026-03-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2503.16416v2",
+    "url": "https://arxiv.org/html/2503.16416v2",
+    "title": "A Survey on Evaluation of LLM-based Agents",
+    "date": "2025-03-24",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2604.11557",
+    "url": "https://huggingface.co/papers/2604.11557",
+    "title": "UniToolCall: Unifying Tool-Use Representation, Data, and Evaluation for LLM Agents",
+    "date": "2026-04-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2510.21618",
+    "url": "https://huggingface.co/papers/2510.21618",
+    "title": "DeepAgent: A General Reasoning Agent with Scalable Toolsets",
+    "date": "2025-10-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2308.03688",
+    "url": "https://huggingface.co/papers/2308.03688",
+    "title": "AgentBench: Evaluating LLMs as Agents",
+    "date": "2023-08-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2607.11098",
+    "url": "https://huggingface.co/papers/2607.11098",
+    "title": "AgentCheck: A Reproduce-Intervene-Mitigate Workbench for LLM Agents over MCP",
+    "date": "2026-07-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2606.25819",
+    "url": "https://huggingface.co/papers/2606.25819",
+    "title": "Beyond Function Calling: Benchmarking Tool-Using Agents under Tool-Environment Unreliability",
+    "date": "2026-06-24",
+    "source": "hf-search"
+  }
+]

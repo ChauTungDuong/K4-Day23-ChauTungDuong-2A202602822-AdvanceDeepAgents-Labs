@@ -1,0 +1,82 @@
+[
+  {
+    "n": 1,
+    "id": "Web-Phi2",
+    "url": "https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/",
+    "title": "Phi-2: The surprising power of small language models",
+    "date": "2023-12-12",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2404.14219",
+    "url": "https://arxiv.org/abs/2404.14219",
+    "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone",
+    "date": "2024-08-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "Web-Gemma2",
+    "url": "https://arxiv.org/html/2408.00118",
+    "title": "Gemma 2: Improving Open Language Models at a Practical Size",
+    "date": "2024-08-01",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2608.11981",
+    "url": "https://arxiv.org/abs/2608.11981",
+    "title": "Benchmarking Trustworthiness of SLMs: Pre-trained vs. Compressed",
+    "date": "2026-08-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2308.07633",
+    "url": "https://huggingface.co/papers/2308.07633",
+    "title": "A Survey on Model Compression for Large Language Models",
+    "date": "2023-08-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "ACN-2025",
+    "url": "https://aclanthology.org/2025.ranlp-1.93.pdf",
+    "title": "A Survey on Small Language Models",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2510.03847",
+    "url": "https://arxiv.org/abs/2510.03847",
+    "title": "Small Language Models for Agentic Systems: A Survey of Architectures, Capabilities, and Deployment Trade-offs",
+    "date": "2025-10-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2401.07851",
+    "url": "https://huggingface.co/papers/2401.07851",
+    "title": "Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding",
+    "date": "2024-01-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "vllm-docs",
+    "url": "https://docs.vllm.ai/en/latest/",
+    "title": "vLLM: High-Throughput and Memory-Efficient LLM Serving",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "trt-llm-readme",
+    "url": "https://github.com/nvidia/tensorrt-llm",
+    "title": "NVIDIA TensorRT-LLM: A TensorRT Toolbox for Optimized Large Language Model Inference",
+    "date": "2025-01-01",
+    "source": "web"
+  }
+]
